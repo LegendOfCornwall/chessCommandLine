@@ -1,0 +1,1 @@
+This is a chess program that allows humans to play one another via the command line.
